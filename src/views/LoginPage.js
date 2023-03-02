@@ -30,7 +30,7 @@ class LoginPage extends React.Component {
       }
 
     render() {
-      return <div>
+      return <div className="Login-page">
         <div className="Login-form-container">
             <form className="Login-form">
                 <div className="Login-form-content">

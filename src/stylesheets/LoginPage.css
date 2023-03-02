@@ -5,3 +5,23 @@
     width: 100vw;
     height: 100vh;
   }
+
+  .Login-form{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 25% 10%;
+    transition: 0.3s;
+    width: 40%;
+    height: 300px;
+    padding:10px 85px;
+    background-color: white;
+  }
+
+  .Login-page{
+    background-image: url('C:/Users/cqezz/OneDrive/Desktop/bankAppFrontend/bankapp/public/city_skyline.jpg');
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
